@@ -38,5 +38,5 @@ Experienced Full Stack Developer specializing in Python and JavaScript ecosystem
 
 - LinkedIn: [Karthikeyan Dhanasekar](https://www.linkedin.com/in/karthikeyan-dhanasekar/)
 - Email: [karthikeyandhanasekarn.@gmail.com](mailto:karthikeyandhanasekarn@gmail.com)
-- GitHub: [Karthikeyan Dhanasekar]([url](https://github.com/karthikeyandhanasekar))
-- Whatsapp : +91 9123565978
+- GitHub: [Karthikeyan Dhanasekar]((https://github.com/karthikeyandhanasekar))
+- Whatsapp : [+91 9123565978](tel:+919123565978)
