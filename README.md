@@ -1,7 +1,5 @@
 # Karthikeyan D
-
-## About Me
-Experienced Full Stack Developer specializing in Python and JavaScript ecosystems. Skilled in developing scalable web applications, RESTful APIs, and integrating AI technologies.
+Frontend Developer | Expertise in React.js, TypeScript, UI/UX Design, and State Management Solutions | Crafting Responsive & Aesthetic Web Interfaces
 
 ## Skills
 
