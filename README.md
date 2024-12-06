@@ -5,34 +5,22 @@ Experienced Full Stack Developer specializing in Python and JavaScript ecosystem
 
 ## Skills
 
-- **Languages:** Python, JavaScript
-- **Frontend:** React, Angular
-- **Backend:** Node.js (Express.js), Flask
-- **Databases:** MySQL, Oracle, PostgreSQL, AWS RDS, Snowflake
-- **Cloud & DevOps:** AWS, GCP, Jenkins, Nginx
-- **Other:** RESTful APIs, Streamlit, Generative AI
+- **Languages:** Python, JavaScript,TypeScript
+- **Frontend:**  React.js, Redux,  Next.js,Angular, SPFx (React), HTML5, CSS3,Bootstrap,
+- **Backend:** Express.js (Node.js), Flask, RESTful APIs, GraphQL,FastAPI
+- **Databases:** MySQL, Oracle, PostgreSQL, AWS RDS, Snowflake,MongoDB
+- **Cloud & DevOps:**  AWS, GCP, CI/CD, Docker, Nginx, Git, GitHub
+- **API Integration:** : OpenAI API, Azure AD, MS Graph API, Flask API, YouTube API
+- **Web Techniques:** AJAX, Fetch API, JSON, WebSockets,JQuery
 
-## Professional Experience
+##Projects
 
-**Software Engineer** (Mar 2024 - Present)
-- Develop full-stack applications using Python (backend) and React (frontend)
-- Integrate Flask APIs and ensure secure database connections
-- Implement Generative AI solutions for enhanced user experience
-
-**Associate Software Engineer** (Sept 2022 - Mar 2024)
-- Built Angular applications with YouTube API integration
-- Implemented RESTful APIs and deployed on AWS EC2
-- Automated CI/CD pipelines using Jenkins
-
-**Trainee** (March 2022 - Aug 2022)
-- Developed backend services using Node.js and MySQL
-- Created React applications integrated with Web Audio API
-
-## Featured Projects
-
-1. **AI-Enhanced Web Application:** Full-stack application leveraging Generative AI
-2. **Media Analytics Platform:** Angular-based platform with YouTube API integration
-3. **Audio Analysis Tool:** React application using Web Audio API
+**Data Sense Pro**
+  Developed an advanced data management platform using React for an intuitive interface and **Flask API **for seamless backend integration, powered by **OpenAI **for intelligent data summarization, profiling, automated DDL generation, and schema comparison. This Gen AI-driven solution enhances efficiency, reduces manual workload, and enables data-driven decision-making, offering businesses a streamlined, scalable platform for optimized data management.
+**BootOrganizer**
+  Built a **MERN** stack application (MongoDB, Express.js, React, Node.js) to help aspiring learners find and organize bootcamps. Utilized **Express.js **for backend logic, **MongoDB** for database management, and** Node.js** for server-side operations. Deployed the application on **Heroku** for scalable hosting.
+**Postaway-Il**
+  The Postaway-Il project focuses on building a robust social media backend that supports core features like posting, commenting, liking, managing friend requests, and secure password resets using OTP. It employs a RESTful API architecture designed with** Node.js**, **Express.js**, and **MongoDB** to ensure efficient data handling and routing. The project emphasizes maintainability by leveraging ES6 modules for clean, modular code organization, ensuring scalability and ease of collaboration.
 
 ## Contact
 
