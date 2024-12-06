@@ -22,7 +22,7 @@ Frontend Developer | Expertise in React.js, TypeScript, UI/UX Design, and State 
 **Postaway-Il**
 - The Postaway-Il project focuses on building a robust social media backend that supports core features like posting, commenting, liking, managing friend requests, and secure password resets using OTP. It employs a RESTful API architecture designed with** Node.js**, **Express.js**, and **MongoDB** to ensure efficient data handling and routing. The project emphasizes maintainability by leveraging ES6 modules for clean, modular code organization, ensuring scalability and ease of collaboration.
 
-**Secret Santa**
+[**Secret Santa**](https://github.com/karthikeyandhanasekar/acme_santa_claus)
 - The Secret Santa Assignment application automates the fair and random assignment of Secret Children to employees, ensuring adherence to predefined rules like no self-assignments or repeats from last year. Built using **React.js** for the frontend, **Express.js** for the backend, and **MySQL** for data management, it supports features like secure authentication, dynamic CSV file uploads, employee management, and custom year data analysis. With automated year detection, rule-based logic, and robust error handling, the platform ensures a seamless and enjoyable experience for users.
 
 ## Contact
