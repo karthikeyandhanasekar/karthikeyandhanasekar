@@ -29,5 +29,4 @@ Frontend Developer | Expertise in React.js, TypeScript, UI/UX Design, and State 
 
 - LinkedIn: [Karthikeyan Dhanasekar](https://www.linkedin.com/in/karthikeyan-dhanasekar/)
 - Email: [karthikeyandhanasekarn@gmail.com](mailto:karthikeyandhanasekarn@gmail.com)
-- GitHub: [Karthikeyan Dhanasekar](https://github.com/karthikeyandhanasekar)
 - Whatsapp : [+91 9123565978](tel:+919123565978) 
