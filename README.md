@@ -26,8 +26,7 @@ Frontend Developer | Expertise in React.js, TypeScript, UI/UX Design, and State 
 - The Secret Santa Assignment application automates the fair and random assignment of Secret Children to employees, ensuring adherence to predefined rules like no self-assignments or repeats from last year. Built using **React.js** for the frontend, **Express.js** for the backend, and **MySQL** for data management, it supports features like secure authentication, dynamic CSV file uploads, employee management, and custom year data analysis. With automated year detection, rule-based logic, and robust error handling, the platform ensures a seamless and enjoyable experience for users.
 
 [**ChatterUp - Real-Time Chat Application**](https://github.com/karthikeyandhanasekar/chatterUp.git)
-Developed an interactive real-time chat application using Node.js, Express.js, Socket.io, and MongoDB, providing seamless bidirectional communication. Implemented features like user onboarding, chat history retrieval, typing indicators, and real-time notifications of online users. Designed a user-friendly interface with HTML, CSS, and modern frameworks like React, ensuring an engaging chat experience. Followed modular coding practices with ES6 Modules for maintainability and scalability.
-
+- Developed an interactive real-time chat application using Node.js, Express.js, Socket.io, and MongoDB, providing seamless bidirectional communication. Implemented features like user onboarding, chat history retrieval, typing indicators, and real-time notifications of online users. Designed a user-friendly interface with HTML, CSS, and modern frameworks like React, ensuring an engaging chat experience. Followed modular coding practices with ES6 Modules for maintainability and scalability.
 
 ## Contact
 
